@@ -1,0 +1,37 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/txtMonto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Ingrese el monto"
+        android:inputType="numberDecimal"
+        android:layout_marginTop="120dp"/>
+
+    <Button
+        android:id="@+id/btnSolesDolares"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Soles → Dólares"
+        android:layout_marginTop="10dp"/>
+
+    <Button
+        android:id="@+id/btnDolaresSoles"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dólares → Soles"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:id="@+id/txtResultado"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Resultado"
+        android:textSize="20sp"
+        android:layout_marginTop="20dp"/>
+
+</LinearLayout>
