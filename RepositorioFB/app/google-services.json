@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "321005595501",
+    "project_id": "repositoriofb-c6598",
+    "storage_bucket": "repositoriofb-c6598.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321005595501:android:072784f1d34d4e27198864",
+        "android_client_info": {
+          "package_name": "com.belen.repositoriofb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2m60ualNNhWHnGzSLpll1xo3DpBqA0yU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
