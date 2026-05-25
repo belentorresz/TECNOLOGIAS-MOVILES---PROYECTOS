@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "363143468573",
+    "project_id": "registrarestudiante",
+    "storage_bucket": "registrarestudiante.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363143468573:android:be207116699ab9bbff18f4",
+        "android_client_info": {
+          "package_name": "com.belen.registrarestudiante"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD30oo8xvPM-JmBakH8K0I7OJQ5v6Ce_os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
