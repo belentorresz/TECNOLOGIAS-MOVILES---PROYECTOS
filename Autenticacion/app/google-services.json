@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "980813016612",
+    "project_id": "autenticacion-10a7f",
+    "storage_bucket": "autenticacion-10a7f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980813016612:android:2b357ccedc8321243bf2b1",
+        "android_client_info": {
+          "package_name": "com.belen.autenticacion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjtyLod5pwnRbBTvYjmaNM0vbRRi3kldk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
